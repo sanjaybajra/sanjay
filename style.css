@@ -113,8 +113,7 @@ form button{
     flex-direction: column;
     width: 90%;
     height: 100%;
- background-image: url("images/girlnew.pnggg.jpg");
-    background-size: cover;
+
 }
 form input{
     background: transparent;
