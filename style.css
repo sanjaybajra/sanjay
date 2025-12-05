@@ -50,8 +50,7 @@ html{
     flex-direction: column;
     width: 80%;
     height: 100%;
- background-image: url("images/girlnew.pnggg.jpg");
-    background-size: cover;
+ 
 }
 form input{
     background: transparent;
