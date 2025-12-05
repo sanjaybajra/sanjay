@@ -87,13 +87,13 @@ container-3 .left{
 }
 .left .image{
     height: 100%;
-    width: 80%;
+    width: 100%;
    
    
 }
 .image img{
     width: 100%;
-    height: 90%;
+    height: 70%;
     margin-bottom: 60px;
 }
 .right{
